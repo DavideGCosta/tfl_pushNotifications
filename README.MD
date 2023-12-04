@@ -1,6 +1,6 @@
 # TFL Train Times Notifier
 ## Introduction
-Are you a Londoner that takes TFL trains such as 'Circle' or 'District' that come at irregular times? Say no more! This TfL Train Times Notifier shows you an example of how to scrape the train time-table for yourstration and uses Pushover to send notifications straight to your phone. 
+Are you a Londoner that takes TFL trains such as 'Circle' or 'District' that come at irregular times? Say no more! This TfL Train Times Notifier shows you an example of how to scrape the train time-table for your station and uses Pushover to send notifications straight to your phone. 
 
 ## Project Structure
 Here's how we've organized the code:
